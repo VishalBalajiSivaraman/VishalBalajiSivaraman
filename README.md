@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hi there!
 
-<!--
-**VishalBalajiSivaraman/VishalBalajiSivaraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Educational Background:**
+- **Ph.D. Candidate in Electrical and Computer Engineering**  
+  University of Florida
+- **B.E. in Electronics and Communication Engineering**  
+  Rajalakshmi Engineering College
 
-Here are some ideas to get you started:
+🔍 **Research Interests:**
+- Transformers
+- Diffusion Models
+- Large Language Models (LLMs)
+- Foundational Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Professional Aspiration:**
+- Passionate about revolutionizing healthcare with cost-effective, cutting-edge AI solutions that deliver precision and efficacy.
+
+🌍 **Let's Connect!**
+Feel free to reach out to discuss technology, research collaborations, or just to say hi!
