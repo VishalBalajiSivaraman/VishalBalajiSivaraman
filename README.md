@@ -28,7 +28,7 @@
 - Contributed to classified projects as an intern at [Northrop Grumman](https://www.northropgrumman.com/), a leading defense technology company. Details of the work remain confidential.
 
 🌍 **Let's Connect!**
- Feel free to reach out to discuss technology, research collaborations, or just to say hi!
+- Feel free to reach out to discuss technology, research collaborations, or just to say hi!
 - 📧 vishalbalaji.sivaraman@medicine.ufl.edu.
 
 **Let's innovate and make a difference in the world together, peace out!**
