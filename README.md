@@ -17,9 +17,6 @@
 💡 **Professional Aspiration:**
 - 🚀 Passionate about revolutionizing healthcare with cost-effective, cutting-edge AI solutions that deliver precision and efficacy.
 
-📊 **GitHub Stats:**
-![VishalBalajiSivaraman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalBalajiSivaraman&show_icons=true)
-
 🌟 **Highlighted Projects:**
 - [RetinaRegNet](https://export.arxiv.org/abs/2404.16017) : RetinaRegNet revolutionizes retinal image registration by leveraging cutting-edge features from a latent diffusion model, capable of extracting retinal images of any modality without prior training on the dataset, making it one of the few models to implement a zero-shot learning approach in this field. The model effectively manages large deformations through a two-stage process, outperforming traditional methods in terms of accuracy and robustness across three challenging retinal image datasets. This project also served as my master's thesis. The code for this innovative project is provided below.
  
