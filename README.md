@@ -25,7 +25,7 @@
 💼 **Experience Highlights:**
 -  Currently working as a full-time Research Assistant at the Medical Imaging Research for Translational Healthcare ([Mirth-AI](https://mirthai.medicine.ufl.edu/)) at my university, where I strive to develop cost-effective cutting-edge AI solutions for disease diagnosis and prognosis, thereby improving patient lives.
 
-- Contributed to classified projects as an intern at Northrop Grumman, a leading defense technology company. Details of the work remain confidential.
+- Contributed to classified projects as an intern at [Northrop Grumman](https://www.northropgrumman.com/), a leading defense technology company. Details of the work remain confidential.
 
 🌍 **Let's Connect!**
 - Feel free to reach out to discuss technology, research collaborations, or just to say hi!
