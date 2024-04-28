@@ -1,4 +1,5 @@
 ### 👋 Hi there!
+My name is Vishal Balaji Sivaraman. Yes, I know it's a bit long—I get that a lot! Feel free to call me Vishal or VBS, whichever you prefer. 😄
 
 🎓 **Educational Background:**
 - **Ph.D. Candidate in Electrical and Computer Engineering**  
