@@ -15,6 +15,9 @@ My name is Vishal Balaji Sivaraman. Yes, I know it's a bit long—I get that a l
 - 📚 Large Language Models (LLMs)
 - 🌐 Foundational Models
 
+🎯 **Goal:**
+- 🌟 Aim to be a **P**owerhouse **O**f **K**nowledg**E** (**POKE**) star in the field of AI/ML.
+
 💡 **Professional Aspiration:**
 - 🚀 Passionate about revolutionizing healthcare with cost-effective, cutting-edge AI solutions that deliver precision and efficacy.
 
