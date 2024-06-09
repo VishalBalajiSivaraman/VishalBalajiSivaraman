@@ -41,8 +41,8 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 - Feel free to reach out to discuss technology, research collaborations, or just to say hi!
 - 📧 vishalbalaji.sivaraman@medicine.ufl.edu.
 ### 📱 You can also find me on:
-- ![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg) [ORCID](https://orcid.org/0000-0002-6807-3957)
-- ![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png) [HackerRank](https://www.hackerrank.com/profile/vi_sivaraman)
-- ![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/6/61/Google_Scholar_logo.png) [Google Scholar](https://scholar.google.com/citations?user=l60AN2gAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0002-6807-3957)
+- [HackerRank](https://www.hackerrank.com/profile/vi_sivaraman)
+- [Google Scholar](https://scholar.google.com/citations?user=l60AN2gAAAAJ&hl=en)
 
 **Let's innovate and make a difference in the world together, peace out!**
