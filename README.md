@@ -10,10 +10,12 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
   _Rajalakshmi Engineering College_
 
 ### 🔍 Research Interests:
+- 🖼️ **Autoencoders**
 - 🤖 **Transformers**
 - 🌀 **Diffusion Models**
-- 📚 **Large Language Models (LLMs)**
 - 🌐 **Foundational Models**
+- 📚 **Large Language Models (LLMs)**
+- 🔁 **Generative Adversarial Networks (GANs)**
 
 ### 🎯 Goal:
 - ✨ Aim to be a **P**owerhouse **O**f **K**nowledg**E** (**POKE**) star in the field of AI/ML.
