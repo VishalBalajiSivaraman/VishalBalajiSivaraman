@@ -13,7 +13,7 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 - 🖼️ **Autoencoders**
 - 🤖 **Transformers**
 - 🌀 **Diffusion Models**
-- 🌐 **Foundational Models**
+- 🌐 **Foundation Models**
 - 📚 **Large Language Models (LLMs)**
 - 🔁 **Generative Adversarial Networks (GANs)**
 
