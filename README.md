@@ -31,7 +31,7 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 ### 💼 Experience Highlights:
 - 👨‍🔬 Currently working as a full-time **Research Assistant** at the Medical Imaging Research for Translational Healthcare ([Mirth-AI](https://mirthai.medicine.ufl.edu/)) laboratory at the University of Florida. Here, I focus on developing cutting-edge deep learning and machine learning models for disease diagnosis and prognosis, with the aim of significantly enhancing patient care and treatment outcomes.
 
-- 🛡️ Contributed to classified projects as an **Associate Systems Engineer intern** in **Mission Systems** at [Northrop Grumman](https://www.northropgrumman.com/), a leading defense conglomerate. Details of the work remain confidential.
+- 🛡️ Led the **Akida Initiative**, as an **Associate Systems Engineer intern** in **Mission Systems** at [Northrop Grumman](https://www.northropgrumman.com/), a leading defense conglomerate, during the summer of 2023.
 
 - 📚 Collaborated with researchers from [PALS](https://palspgm.com/), a prominent **IIT alumni hub**, as a **Product Developer Intern** to automate complex lab experiments into an eLearning platform, Virtual Labs ([Vlabs](https://palspgm.com/vlabs/)). This initiative by the **Ministry of Human Resource Development, Government of India**, under the **National Mission on Education through Information and Communication Technology**, played a pivotal role in steering engineering and science learning during the height of the **COVID-19 pandemic**.
 
