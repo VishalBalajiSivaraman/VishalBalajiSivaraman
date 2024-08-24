@@ -37,7 +37,7 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 
 - 🚢 Contributed to the **IoT Smart Boat** project proposed by **FOKA Tech**, an IoT startup under [ADR Group International](https://adrgrp.com/), in collaboration with [Rajalakshmi Engineering College](https://www.rajalakshmi.org). As a **Systems Engineer Intern**, I developed AI-based solutions to enhance maritime security by implementing a smart object and face tracking algorithm for real-time threat assessment using live surveillance feeds. Additionally, I designed a distinct context-aware control system to manage and monitor user-appliance interactions, optimizing battery power levels for large-scale boats docked on land and at sea.
 
-- 👗 Collaborated with the Research and Development team at [Grroom](https://grroom.in/#/), a retail apparel and fashion company featuring the **world’s first AI-based styling application**, initiated by **IIT Bombay**. As a **Machine Learning Intern**, I focused on optimizing the performance and efficacy of their proprietary AI stylist platform to enhance user experience and provide personalized fashion recommendations tailored to client requirements.
+- 👗 Collaborated with the Research and Development team at [Grroom](https://grroom.in/), a retail apparel and fashion company featuring the **India’s first AI-based styling application**, initiated by **IIT Bombay**. As a **Machine Learning Intern**, I focused on optimizing the performance and efficacy of their proprietary AI stylist platform to enhance user experience and provide personalized fashion recommendations tailored to client requirements.
 
 ### 🌍 Let's Connect!
 - Feel free to reach out to discuss technology, research collaborations, or just to say hi!
