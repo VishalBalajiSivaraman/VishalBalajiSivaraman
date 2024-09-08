@@ -2,7 +2,7 @@
 My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that a lot! Feel free to call me **Vishal** or **VBS**, whichever you prefer. 😄
 
 ### 🎓 Educational Background:
-- **Ph.D. Candidate in Electrical and Computer Engineering**  
+- **Ph.D. Student in Electrical and Computer Engineering**  
   _University of Florida_
 - **M.S. in Electrical and Computer Engineering**  
   _University of Florida_
