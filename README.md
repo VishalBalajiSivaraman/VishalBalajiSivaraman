@@ -48,5 +48,6 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 - [ORCID](https://orcid.org/0000-0002-6807-3957)
 - [HackerRank](https://www.hackerrank.com/profile/vi_sivaraman)
 - [Google Scholar](https://scholar.google.com/citations?user=l60AN2gAAAAJ&hl=en)
+- [UF Health Directory](https://directory.ufhealth.org/sivaraman-vishal-balaji)
 
 **Let's innovate and make a difference in the world together, peace out!**
