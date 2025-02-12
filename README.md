@@ -4,7 +4,7 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 ### 🎓 Educational Background:
 - **Ph.D. Student in Electrical and Computer Engineering**  
   _University of Florida_
-- **M.S. in Electrical and Computer Engineering**  
+- **M.S. with [**Thesis**](https://ufdc.ufl.edu/UFE0061256/00001/citation) in Electrical and Computer Engineering**  
   _University of Florida_
 - **B.E. in Electronics and Communication Engineering**  
   _Rajalakshmi Engineering College_
