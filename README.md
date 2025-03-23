@@ -41,7 +41,7 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 
 - 👗 Worked with the Research and Development team at [Grroom](https://grroom.in/), a retail apparel and fashion company featuring **India’s first AI-based styling application**, endorsed by **IIT Bombay**. As a **Machine Learning Intern**, I focused on optimizing the performance and effectiveness of their proprietary AI stylist platform to improve user experience and deliver personalized fashion recommendations tailored to client requirements.
 
-## 🏅 Badges:
+### 🏅 Badges:
 <a href="https://www.credly.com/earner/earned/badge/f52580a1-7614-4bf3-91a6-4f4d0aaaac29">
   <img src="./images/badge_image.png" alt="Credly Badge" width="75" height="75">
 </a>
