@@ -23,6 +23,10 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 ### 💡 Professional Aspiration:
 - 🚀 Passionate about revolutionizing healthcare with cost-effective, cutting-edge AI solutions that deliver precision and efficacy.
 
+## 🏅 Badges:
+<a href="https://www.credly.com/earner/earned/badge/f52580a1-7614-4bf3-91a6-4f4d0aaaac29">
+  <img src="./images/badge_image.png" alt="Credly Badge" width="200" height="200">
+</a>
 
 ### 🌟 Highlighted Projects:
 - [**RetinaRegNet**](https://www.sciencedirect.com/science/article/pii/S001048252401730X) (**Role**: ***Principle Investigator***): RetinaRegNet revolutionizes retinal image registration by leveraging cutting-edge features from a **CLIP guided-latent diffusion model**, capable of registering retinal images of any modality without prior training. This positions it as one of the few models to implement a **zero-shot learning** approach in this innovative field. The model effectively manages large deformations through a multi-stage process, surpassing traditional methods in registration accuracy and robustness across three challenging retinal image datasets. This project also served as my **master's thesis**, and the code for this novel project is provided below.
@@ -41,10 +45,6 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 
 - 👗 Worked with the Research and Development team at [Grroom](https://grroom.in/), a retail apparel and fashion company featuring **India’s first AI-based styling application**, endorsed by **IIT Bombay**. As a **Machine Learning Intern**, I focused on optimizing the performance and effectiveness of their proprietary AI stylist platform to improve user experience and deliver personalized fashion recommendations tailored to client requirements.
   
-## 🏅 Badges:
-<a href="https://www.credly.com/earner/earned/badge/f52580a1-7614-4bf3-91a6-4f4d0aaaac29">
-  <img src="./images/badge_image.png" alt="Credly Badge" width="200" height="200">
-</a>
 
 ### 🌍 Let's Connect!
 - Feel free to reach out to discuss technology, research collaborations, or just to say hi!
