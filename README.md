@@ -25,7 +25,7 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 
 ## 🏅 Badges:
 <a href="https://www.credly.com/earner/earned/badge/f52580a1-7614-4bf3-91a6-4f4d0aaaac29">
-  <img src="./images/badge_image.png" alt="Credly Badge" width="200" height="200">
+  <img src="./images/badge_image.png" alt="Credly Badge" width="100" height="100">
 </a>
 
 ### 🌟 Highlighted Projects:
