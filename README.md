@@ -1,6 +1,11 @@
 ## 👋 Hi there!
 My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that a lot! Feel free to call me **Vishal** or **VBS**, whichever you prefer. 😄
 
+## 🏅 Badges:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f52580a1-7614-4bf3-91a6-4f4d0aaaac29" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 ### 🎓 Educational Background:
 - **Ph.D. Student in Electrical and Computer Engineering**  
   _University of Florida_
