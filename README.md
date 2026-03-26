@@ -15,6 +15,7 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 - 🌀 **Diffusion Models**
 - 🌐 **Foundation Models**
 - 📚 **Large Language Models (LLMs)**
+- 🧠 **Vision-Language Models (VLMs)**
 - 🔁 **Generative Adversarial Networks (GANs)**
 
 ### 🎯 Goal:
