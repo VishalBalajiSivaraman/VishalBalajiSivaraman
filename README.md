@@ -33,7 +33,7 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 
   
 ### 💼 Experience Highlights:
-- 👨‍🔬 Currently working as a full-time **Graduate Research Assistant** at the Medical Imaging Research for Translational Healthcare ([Mirth-AI](https://mirthai.medicine.ufl.edu/)) laboratory at the University of Florida, where I focus on developing cutting-edge, deployable deep learning and machine learning models for medical imaging tasks, including Image Segmentation, Image Super-Resolution, and Image Registration, to assist clinicians by enhancing disease diagnosis and prognosis.
+- 👨‍🔬 Currently working as a full-time **Graduate Research Assistant** at the University of Florida, where I focus on developing cutting-edge, deployable deep learning and machine learning models for **semiconductor and medical imaging** applications, including Image segmentation, Image super-resolution, and Image registration, to enhance semiconductor manufacturing inspection while enabling accurate disease diagnosis and prognosis.
 
 - 🛡️ Led the **Akida Initiative**, as an **Associate Systems Engineer intern** in **Mission Systems** at [Northrop Grumman](https://www.northropgrumman.com/), a leading defense conglomerate, during the summer of 2023.
 
