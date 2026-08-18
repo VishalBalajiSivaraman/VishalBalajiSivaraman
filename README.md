@@ -36,7 +36,9 @@ My name is **Vishal Balaji Sivaraman**. Yes, I know it's a bit long—I get that
 ### 💼 Experience Highlights:
 - 👨‍🔬 Currently working as a full-time **Graduate Research Assistant** at the University of Florida, where I focus on developing cutting-edge, deployable deep learning and machine learning models for **semiconductor and medical imaging** applications, including Image segmentation, Image super-resolution, and Image registration, to enhance semiconductor manufacturing inspection while enabling accurate disease diagnosis and prognosis.
 
-- ✈️ Incoming **AI/Computer Vision Ph.D. Research Fellow Intern** at [GE Aerospace Research](https://www.geaerospace.com/company/research), a global leader in aerospace research and innovation, with a focus on **Digital Technology**, Summer 2026.
+<!-- - ✈️ Incoming **AI/Computer Vision Ph.D. Research Fellow Intern** at [GE Aerospace Research](https://www.geaerospace.com/company/research), a global leader in aerospace research and innovation, with a focus on **Digital Technology**, Summer 2026. -->
+
+* ✈️ Developed **D.R.A.K.E.**: **D**isposition **R**ecommendation **A**gent with **K**nowledge **E**xtraction, an **end-to-end, user-friendly Agentic AI application** designed to assist **MRO engineers with technical inquiries and validation during aircraft engine maintenance and repair**, during my time interning as an **AI/Computer Vision Ph.D. Research Fellow Intern** at [**GE Aerospace Research**](https://www.geaerospace.com/company/research) in the summer of 2026.
 
 - 🛡️ Led the **Akida Initiative**, as an **Associate Systems Engineer intern** in **Mission Systems** at [Northrop Grumman](https://www.northropgrumman.com/), a leading defense conglomerate, during the summer of 2023.
 
